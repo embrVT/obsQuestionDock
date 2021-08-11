@@ -12,4 +12,4 @@ To add it to obs
 2. Hover over docks
 3. Click custom browser docks
 4. Name the dock whatever you want
-5. Paste this URL: [https://embrqq.github.io/questionDock/](https://embrqq.github.io/questionDock/)
+5. Paste this URL: [https://embrvt.github.io/obsQuestionDock/](https://embrvt.github.io/obsQuestionDock/)
